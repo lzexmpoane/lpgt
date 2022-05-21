@@ -1,0 +1,12 @@
+一个生命体在宇宙的宇宙身份证必须包含以下几个部分：
+宇宙、星系、天体系统、天体、文明、出生年月日（公元纪年）、出生序号、其他个人信息。
+
+可补充说明的有：
+星系：星系团复合体、星系团、系群、星云
+文明：国家及地区。
+其他个人信息：姓名、性别。
+
+举例：小明（男）是地球上出生在公元 1949 年 10 月 1 日的一位中国北京公民。
+则他的宇宙身份证是：
+
+U|Hercules-CoronaBorealisGreatWall>Pisces–CetusSuperclusterComplex>LaniakeaSupercluster>VirgoSupercluster>LocalGroupofGalaxies>MilkyWayGalaxy|SolarSystem|Earth|ChineseCivilization>thePeople'sRepublicofChina>Beijing|1819491001|2100000000001|XiaoMing>Man$
